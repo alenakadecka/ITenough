@@ -99,8 +99,8 @@ h1{
 .flexboxmoznosti{
     display: flex;
     flex-direction: row;
-    align-items: baseline;
-    height: 300px;
+    flex-wrap: wrap;
+    align-items: start;
     width: auto;
     padding: 10px;
 }
@@ -114,7 +114,7 @@ h1{
     align-items: center;
     margin: 10px;
     width: auto;
-   
+    padding-bottom: 10px;
     
 }
 .obrazek{
