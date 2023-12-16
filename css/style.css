@@ -6,8 +6,7 @@ body{
 
 font-family: 'Source Serif 4', serif;
 font-size: 15px;
-padding-top: 40px;
-
+padding-top: 35px;
 
 }
 /*
@@ -15,6 +14,10 @@ padding-top: 40px;
             main layout dizajn
  **************************************
 */
+
+.main{
+    padding-top: 40px;
+    }
 
 menu{ 
     font-family: 'Source Serif 4', serif;
@@ -95,9 +98,27 @@ h1{
 
 .flexboxmoznosti{
     display: flex;
-
+    flex-direction: row;
+    align-items: baseline;
+    height: 300px;
+    width: auto;
+    padding: 10px;
 }
 
-.okienkovboxe{
+.box{
     display: flex;
+    flex-direction: column;
+    background-color: #464F95;
+    color: #ECE4E4;
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+    width: auto;
+   
+    
+}
+.obrazek{
+    width: auto;
+    height: 200px;
+    margin: 10px;
 }
