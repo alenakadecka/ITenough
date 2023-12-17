@@ -96,22 +96,19 @@ h1{
  **************************************
 */
 
-.flexboxmoznosti{
+.flexboxmoznosti-bigcontainer{
     display: flex;
     flex-direction: row;
-    align-items: start;
+    align-items: center;
+    justify-items: center;
     width: auto;
     padding: 5px;
     margin: 5px;
     flex-wrap: wrap;
     gap: 10px;
 }
-.obrbox{
-    display: flex;
-   
-   }
 
-.box{
+.box-minicontainer{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -119,17 +116,19 @@ h1{
     color: #ECE4E4;
     text-align: center;
     align-items: center;
-    border-radius: 15px;
-    width: 250px;
-    height: 220px;
-    padding: 10px;
+    justify-content: center;
+    border-radius: 10px;
+    width: 300px;
+    height: 270px;
+    padding: 7px;
     box-shadow: 3px 3px 3px rgb(159, 160, 162);
    }
 
-.obrazek{
+.obrazek-flexitem{
     width: auto;
     height: 170px;
     border-radius: 15px;
+    object-fit: cover;
     }
 
 
