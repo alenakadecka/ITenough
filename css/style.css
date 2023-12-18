@@ -2,6 +2,206 @@
 html { box-sizing: border-box; }
 *, ::before, ::after { box-sizing: inherit; }
 
+
+
+/*
+**************************************
+**************************************
+Breakpoint: Mobil   0 - 539px
+**************************************
+**************************************
+*/
+/*///////////.......hamburger-menu....................../////////*/
+.menu__checkbox{
+    position: absolute;
+    left: -9999px;
+    }
+.menu__list{
+    display: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color: #341c5a;
+    }
+
+.menu__item{
+    border-bottom: 1px solid #ECE4E4;
+    }
+.menu__link{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #ECE4E4;
+    }
+.menu__link:hover{
+        background-color: #78648E;
+}
+
+.menu__checkbox:checked ~ .menu__list {
+    display: block;
+}
+
+.menu__toggler{
+    cursor: pointer;
+}
+
+/*//////////rest.....................other//////////*/
+
+body{
+
+font-family: 'Source Serif 4', serif;
+font-size: 15px;
+padding-top: 35px;
+
+}
+
+.main{
+    padding-top: 40px;
+    }
+
+menu{ 
+    font-family: 'Source Serif 4', serif;
+    
+
+    }
+header{
+        background-color: #464F95;
+        height: 55px;
+           }
+.menu{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    position: relative; 
+    float: right;
+            
+          }
+
+.policko{
+        background-color: rgb(40, 12, 67);
+        width: 125px;
+        height: 35px;
+        font-size: 15px;
+        color: #ECE4E4;
+        border-radius: 25px;
+        text-align: center;
+        margin: 5px 5px 5px 5px;    
+        padding: 5px 5px; 
+        border: 2px #1b093b;
+        }
+
+    .policko:hover{ 
+                background-color: #e79441;    
+                box-shadow: 5px 7px 5px #525058;
+                border: 2px #1b093b;
+              
+                
+    }
+
+a{  color:#ECE4E4;
+    font-style: normal;
+    text-decoration: none;
+  }
+
+a:hover{
+    color: #1b093b;
+    font-family: 'Source Serif 4', serif;
+   font-weight: bold;
+   }
+
+body{
+    background-color:#ECE4E4;
+    
+}
+
+h1{
+    color: #341c5a;
+    padding-top: 100px;
+
+}
+ 
+.footer{
+        background-color:#78648E;
+        color:#ECE4E4;
+        text-align: center;
+        align-items: baseline;
+        height: 56px;
+        width: 100%;
+        padding: 6px;
+        position: fixed;
+        bottom: 0;
+            }
+
+            /*
+ **************************************
+           VZDELAVANIE
+ **************************************
+*/
+
+.flexboxmoznosti-bigcontainer{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-wrap: wrap;
+    width: auto;
+    flex-shrink: 1;
+    padding: 5px;
+    margin: 5px;
+    
+    gap: 10px;
+}
+
+.box-minicontainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: #464F95;
+    color: #ECE4E4;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    width: 150px;
+    height: 170px;
+    padding: 7px;
+    box-shadow: 3px 3px 3px rgb(159, 160, 162);
+   }
+
+   .box-minicontainer:hover{
+    background-color: #5560b1;
+    box-shadow: 3px 3px 3px rgb(116, 116, 118);
+    font-weight: bold;
+
+    }
+
+
+
+.obrazek-flexitem{
+    width: auto;
+    height: 75px;
+    border-radius: 15px;
+    object-fit: cover;
+    }
+
+
+
+
+
+
+/*
+**************************************
+**************************************
+Breakpoint: PC      960px a víc
+**************************************
+**************************************
+*/
+@media screen and  (min-width: 960px;){
+        .menu__toggler{ display: none;}
+        .menu__list{display: flex;!important}
+        .menu__item{border:0;}
+    }
+
 body{
 
 font-family: 'Source Serif 4', serif;
@@ -87,7 +287,10 @@ h1{
         text-align: center;
         align-items: baseline;
         height: 56px;
+        width: 100%;
         padding: 6px;
+        position: fixed;
+        bottom: 0;
             }
 
             /*
@@ -98,13 +301,14 @@ h1{
 
 .flexboxmoznosti-bigcontainer{
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-items: center;
+    flex-wrap: wrap;
     width: auto;
+    flex-shrink: 1;
     padding: 5px;
     margin: 5px;
-    flex-wrap: wrap;
+    
     gap: 10px;
 }
 
@@ -123,6 +327,15 @@ h1{
     padding: 7px;
     box-shadow: 3px 3px 3px rgb(159, 160, 162);
    }
+
+   .box-minicontainer:hover{
+    background-color: #5560b1;
+    box-shadow: 3px 3px 3px rgb(116, 116, 118);
+    font-weight: bold;
+
+    }
+
+
 
 .obrazek-flexitem{
     width: auto;
