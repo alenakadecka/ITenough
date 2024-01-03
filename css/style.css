@@ -145,10 +145,8 @@ h1{
     justify-items: center;
     flex-wrap: wrap;
     width: auto;
-    flex-shrink: 1;
     padding: 5px;
     margin: 5px;
-    
     gap: 10px;
 }
 
@@ -163,7 +161,7 @@ h1{
     justify-content: center;
     border-radius: 10px;
     width: 150px;
-    height: 170px;
+    height: auto;
     padding: 7px;
     box-shadow: 3px 3px 3px rgb(159, 160, 162);
    }
@@ -176,15 +174,19 @@ h1{
     }
 
 
-
 .obrazek-flexitem{
     width: auto;
     height: 75px;
     border-radius: 15px;
     object-fit: cover;
+    
     }
 
-
+.textpopis{
+width: 330px;
+text-align: left;
+padding: 10px;
+    }
 
 
 
