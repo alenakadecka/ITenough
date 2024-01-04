@@ -141,8 +141,7 @@ h1{
 
 .flexboxmoznosti-bigcontainer{
     display: flex;
-    align-items: center;
-    justify-items: center;
+    align-items: flex-start;
     flex-wrap: wrap;
     width: auto;
     padding: 5px;
@@ -154,10 +153,10 @@ h1{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    background-color: #464F95;
-    color: #ECE4E4;
-    text-align: center;
     align-items: center;
+    background-color: #464F95;
+    color: hsl(0, 17%, 91%);
+    text-align: center;
     justify-content: center;
     border-radius: 10px;
     width: 150px;
