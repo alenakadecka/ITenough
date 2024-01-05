@@ -24,18 +24,14 @@ Breakpoint: Mobil   0 - 539px
     background-color: #341c5a;
     }
 
-.menu__item{
-    border-bottom: 1px solid #ECE4E4;
-    }
+
+
 .menu__link{
     display: block;
     padding: 10px;
     text-decoration: none;
-    color: #ECE4E4;
-    }
-.menu__link:hover{
-        background-color: #78648E;
-}
+       }
+
 
 .menu__checkbox:checked ~ .menu__list {
     display: block;
@@ -61,27 +57,26 @@ padding-top: 35px;
 
 menu{ 
     font-family: 'Source Serif 4', serif;
-    
+        }
 
-    }
 header{
         background-color: #464F95;
-        height: 55px;
+        /* height: 55px; */
            }
 .menu{
     list-style-type: none;
-    display: flex;
+    display: block;
     justify-content: center;
-    width: 800px;
-    position: relative; 
-    float: right;
+    /* width: 800px; */
+    /* position: relative; */
+    /* float: right; */
             
           }
 
 .policko{
-        background-color: rgb(40, 12, 67);
-        width: 125px;
-        height: 35px;
+        background-color: #280c43;
+        /* width: 125px;
+        height: 35px; */
         font-size: 15px;
         color: #ECE4E4;
         border-radius: 25px;
@@ -107,7 +102,7 @@ a{  color:#ECE4E4;
 a:hover{
     color: #1b093b;
     font-family: 'Source Serif 4', serif;
-   font-weight: bold;
+    font-weight: bold;
    }
 
 body{
@@ -197,11 +192,12 @@ Breakpoint: PC      960px a víc
 **************************************
 **************************************
 */
-@media screen and  (min-width: 960px;){
+@media screen and  (min-width: 960px;)
+        {
         .menu__toggler{ display: none;}
-        .menu__list{display: flex;!important}
+        .menu__list{display: flex!important;}
         .menu__item{border:0;}
-    }
+         }
 
 body{
 
