@@ -175,15 +175,9 @@ padding: 10px;
     }
 
  
-/*
-**************************************
-**************************************  
- Breakpoint: Tablet 
 
-**************************************
-*/
 
-/*
+  /*
 **************************************
 **************************************
 Breakpoint: PC      960px a viac
@@ -192,9 +186,15 @@ Breakpoint: PC      960px a viac
 */
 @media screen and  (min-width: 960px)
         {
-        .menu__toggler{display: none;}
-        .menu__list{display: flex!important;float: right;border-radius: 30px;}
-        .menu__item{border:0;border-radius: 30px}
+        .menu__toggler{
+            display: none;}
+        .menu__list{
+            display: flex!important;
+            float: right;
+            border-radius: 30px;}
+        .menu__item{
+            border:0;
+            border-radius: 30px}
          }
 
 body{
