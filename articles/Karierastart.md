@@ -1,4 +1,7 @@
-
+---
+layout: sablona_main.njk
+title: IT Enought
+---
 ## Navigating the Tech Landscape: A Guide for Women Changing Careers into IT
 
 The ever-evolving technology industry offers a plethora of opportunities for aspiring professionals to pursue their passions and contribute to innovation. While the demand for skilled IT professionals is high, the transition from a different sector to the tech world may seem daunting. This guide aims to provide valuable insights and actionable strategies for women seeking to embark on a career in IT.

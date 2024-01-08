@@ -1,4 +1,7 @@
-
+---
+layout: sablona_main.njk
+title: IT Enought
+---
 ## Navigating the Gender Gap in the IT Field: Overcoming Discrimination and Achieving Success
 
 The technology industry, often lauded for its innovation and cutting-edge advancements, harbors a persistent gender gap that hinders women's participation and advancement. Despite making up nearly half of the workforce in the United States, women hold only 26% of computing-related jobs, and their representation dwindles further at the higher levels of the industry. This disparity stems from a complex interplay of factors, including unconscious biases, gender stereotypes, and structural barriers that impede women's progress.
@@ -19,16 +22,16 @@ In addition, outdated workplace cultures that prioritize camaraderie and bro-cul
 
 Despite these challenges, women can effectively navigate the gender gap in the IT industry and achieve success by taking proactive steps:
 
-*Expanding Skill Sets and Networking:* Continuously expanding skillsets and engaging in professional development activities demonstrate commitment to the industry and enhance career prospects. Networking with other women in the field provides valuable mentorship, support, and insights into navigating industry dynamics.
+**Expanding Skill Sets and Networking:** Continuously expanding skillsets and engaging in professional development activities demonstrate commitment to the industry and enhance career prospects. Networking with other women in the field provides valuable mentorship, support, and insights into navigating industry dynamics.
 
-*Addressing Unconscious Biases:* Recognizing and addressing unconscious biases, both in ourselves and others, is crucial for creating a more equitable and inclusive work environment. Encouraging open discussions about gender equality and promoting diversity initiatives can help shift perceptions and foster a more supportive culture.
+**Addressing Unconscious Biases:** Recognizing and addressing unconscious biases, both in ourselves and others, is crucial for creating a more equitable and inclusive work environment. Encouraging open discussions about gender equality and promoting diversity initiatives can help shift perceptions and foster a more supportive culture.
 
-*Demanding Fair Treatment:* Standing up for equal treatment and challenging discriminatory practices is essential for dismantling the gender gap. Raising concerns with hiring managers, HR representatives, or external organizations can bring about positive change.
+**Demanding Fair Treatment:** Standing up for equal treatment and challenging discriminatory practices is essential for dismantling the gender gap. Raising concerns with hiring managers, HR representatives, or external organizations can bring about positive change.
 
-*Seeking Mentorship and Support:* Seeking guidance from experienced women in the industry can provide valuable insights, support, and encouragement. Mentorship programs and professional networks offer opportunities to learn from role models and build a supportive network.
+**Seeking Mentorship and Support:** Seeking guidance from experienced women in the industry can provide valuable insights, support, and encouragement. Mentorship programs and professional networks offer opportunities to learn from role models and build a supportive network.
 
-*Navigating Workplace Culture:* Adapting to the demanding work culture of the IT industry while advocating for flexible work arrangements and parental leave policies can help women balance their career and personal aspirations.
+**Navigating Workplace Culture:** Adapting to the demanding work culture of the IT industry while advocating for flexible work arrangements and parental leave policies can help women balance their career and personal aspirations.
 
-*Celebrating Success and Inspiring Others:* Recognizing and celebrating the achievements of women in the IT industry can inspire others and contribute to a more inclusive and equitable work environment. Sharing experiences and providing role models can encourage more women to pursue careers in technology.
+**Celebrating Success and Inspiring Others:** Recognizing and celebrating the achievements of women in the IT industry can inspire others and contribute to a more inclusive and equitable work environment. Sharing experiences and providing role models can encourage more women to pursue careers in technology.
 
 As the IT industry continues to evolve and demand a diverse workforce, overcoming the gender gap is critical for innovation and growth. By addressing unconscious biases, dismantling structural barriers, and fostering a more inclusive culture, the industry can harness the full potential of its female talent and shape a more equitable technological future.

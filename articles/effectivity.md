@@ -1,3 +1,8 @@
+---
+layout: sablona_main.njk
+title: IT Enought
+---
+
 ## About Effectivity in Learning for Success in IT
 
 The ever-evolving landscape of technology demands a continuous commitment to learning and development. Whether you're a seasoned IT professional or a newbie venturing into the field, finding effective learning strategies is crucial for mastering complex concepts and achieving success in the industry.

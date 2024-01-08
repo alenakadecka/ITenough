@@ -1,3 +1,8 @@
+---
+layout: sablona_main.njk
+title: IT Enought
+---
+
 ## Navigating the Tech Industry: Retaining Hope and Achieving Success
 
 The technology industry, with its ever-evolving landscape and vast opportunities, is a dynamic and exciting field to pursue. However, it can also be a daunting and challenging environment, especially for women navigating the gender gap and societal stereotypes. While the path may not always be smooth, it is crucial to retain hope and persevere to achieve success in the tech industry.

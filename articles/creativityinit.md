@@ -1,4 +1,7 @@
-
+---
+layout: sablona_main.njk
+title: IT Enought
+---
 ## The Unsung Hero of IT: Creativity
 
 In the world of technology, where logic, precision, and coding prowess often reign supreme, creativity might seem like an unlikely virtue. However, creativity plays a surprisingly pivotal role in shaping the landscape of IT, driving innovation, problem-solving, and user experience design. Although it may not always be recognized as such, creativity is a cornerstone of successful IT endeavors.
@@ -27,15 +30,15 @@ A competitive edge: Organizations that embrace creativity in their IT teams gain
 
 While creativity may seem like an innate talent, it can also be nurtured and developed through conscious effort. Here are some ways to cultivate creativity in IT:
 
-*Challenge assumptions:* Question the status quo, challenge established norms, and seek alternative perspectives to break free from traditional thinking patterns.
+**Challenge assumptions:** Question the status quo, challenge established norms, and seek alternative perspectives to break free from traditional thinking patterns.
 
-*Explore new ideas:* Engage in diverse activities, learn new skills, and immerse yourself in different fields of knowledge to broaden your perspective and inspire creative thinking.
+**Explore new ideas:** Engage in diverse activities, learn new skills, and immerse yourself in different fields of knowledge to broaden your perspective and inspire creative thinking.
 
-*Collaborate with others:* Foster a collaborative environment where individuals from different backgrounds and expertise can exchange ideas and challenge each other's assumptions.
+**Collaborate with others:** Foster a collaborative environment where individuals from different backgrounds and expertise can exchange ideas and challenge each other's assumptions.
 
-*Embrace experimentation:* Encourage experimentation, risk-taking, and the willingness to try new approaches, even if they seem unconventional.
+**Embrace experimentation:** Encourage experimentation, risk-taking, and the willingness to try new approaches, even if they seem unconventional.
 
-*Reward innovation:* Recognize and reward innovative thinking, providing incentives for creativity and fostering a culture that celebrates new ideas.
+**Reward innovation:** Recognize and reward innovative thinking, providing incentives for creativity and fostering a culture that celebrates new ideas.
 
 # Conclusion
 
