@@ -20,19 +20,37 @@
             <input type="checkbox" class="menu__checkbox" id="menu-checkbox">
              <label for="menu-checkbox" class="menu__toggler">☰ Menu</label>
         <ul class="menu__list">
+            <li><div class="menu__item"><a class="menu__link" href="/blog/">Blog IT Enough</a></div></li>  
             <li><div class="menu__item"><a class="menu__link" href="/uvod/">Intro</a></div></li> 
-            <li><div class="menu__item"><a class="menu__link" href="/vzdelavanie/">Education</a></div></li> 
-            <li><div class="menu__item"><a class="menu__link" href="/tvojjob/">Job</a></div></li> 
-            <li><div class="menu__item"><a class="menu__link" href="/inspiracia/">Inspiration</a></div></li> 
-            <li><div class="menu__item"><a class="menu__link" href="/blog/">Blog</a></div></li> 
+           
+       
         </ul>
         </nav>
 
 </div>
 <!-------obsah---------->
 <main class="main">
+    <article class="">
 
-    {{ content | safe }}
+        <h1 class="article_title">{{ title }}</h1>
+    <p class="">Published {{page.date.toLocalString('cs-CZ')}}</p>
+    
+    
+    <div class="article_box">
+    
+    <div class="article_text">
+    
+    <p class="article_perex"></p>
+    </div>
+    
+    
+    
+    <img class="" src="" alt="">
+    
+    </article>
+    
+    </div>
+  
 
 </main>
 

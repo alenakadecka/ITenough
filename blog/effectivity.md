@@ -35,6 +35,8 @@ Active learning involves engaging with the material in a way that promotes deepe
 
 Visuals can significantly enhance the learning process, especially in IT. Utilize diagrams, flowcharts, and code visualizations to break down complex concepts and make them more understandable. Visual aids can help you organize information, identify patterns, and improve comprehension.
 
+![Hands of the woman which are creating something from clay](/images/blog/creating.jpg)
+
 ## 8. Apply Learnings to Real-World Scenarios:
 
 Connecting theoretical knowledge to practical applications is essential for effective learning in IT. Identify real-world problems or challenges that align with the concepts you're learning. Apply your knowledge to solve these problems, creating a bridge between theory and practical application.

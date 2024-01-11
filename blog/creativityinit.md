@@ -26,6 +26,8 @@ Problem-solving breakthroughs: Creative approaches to problem-solving help IT pr
 
 A competitive edge: Organizations that embrace creativity in their IT teams gain a significant advantage, fostering a culture of innovation and adaptability that drives them to success.
 
+![Pieces of flowers in a bowl](/images/blog/creativity.jpg)
+
 ##  Nurturing Creativity in IT
 
 While creativity may seem like an innate talent, it can also be nurtured and developed through conscious effort. Here are some ways to cultivate creativity in IT:

@@ -18,6 +18,8 @@ The IT industry is often characterized by long hours, demanding work schedules, 
 
 In addition, outdated workplace cultures that prioritize camaraderie and bro-culture can create an unwelcoming environment for women, making them feel excluded and unwelcome. This can lead to feelings of isolation, lack of mentorship, and a reluctance to speak up, further hindering their professional growth.
 
+![Cup with text and flowers on table](/images/blog/discourage.jpg)
+
 ##  Strategies for Overcoming Discrimination and Achieving Success
 
 Despite these challenges, women can effectively navigate the gender gap in the IT industry and achieve success by taking proactive steps:
