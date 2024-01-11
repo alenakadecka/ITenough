@@ -26,7 +26,7 @@ In today's digital age, your online presence plays a significant role in your pr
 
 Internships and entry-level positions provide valuable hands-on experience and allow you to apply your skills in a real-world setting. Seize these opportunities to gain exposure to different aspects of the tech industry, connect with experienced professionals, and build your reputation.
 
-![Statue Venusa and flower on table](images/blog/careerstart.jpg)
+![Statue Venusa and flower on table](/images/blog/careerstart.jpg)
 
 ## Continuous Learning and Self-Development
 
