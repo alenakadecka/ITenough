@@ -1,6 +1,14 @@
 ---
-layout: sablona_main.njk
+layout: sablona_blog.njk
 title: IT Enought
+date: 2023-01-10T12:20
+perex: We all know that studying takes a lot of time. A lot of energy. How do study effectively at all? And how do study efefctively in IT?
+foto: creating.jpg
+alt: hands creating sth with a clay
+tags:
+- blog
+- article
+- effectivity
 ---
 
 # About Effectivity in Learning for Success in IT

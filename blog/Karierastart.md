@@ -1,6 +1,15 @@
 ---
-layout: sablona_main.njk
+layout: sablona_blog.njk
 title: IT Enought
+date: 2023-12-31T17:30
+perex: Changing carrer or only job at all is not easy. How manage your Career start in IT sector the best way?
+foto: careerstart
+alt: Statue of Venus and flowers on the table
+tags: 
+- blog
+- article
+- women carrer in IT
+- carrer start
 ---
 # Navigating the Tech Landscape: A Guide for Women Changing Careers into IT
 

@@ -1,6 +1,15 @@
 ---
-layout: sablona_main.njk
+layout: sablona_blog.njk
 title: IT Enought
+date: 2014-01-06T11:30
+perex: In a life comes often moments when thing get really hard. And entering IT field, studying without support, fighting and with lack of sleep or relax colud be on daily basis. Ho do not lose hope when your enthusiasim, faith in your strenghs and curiosity slowly desapears?
+foto: loosinghope.jpg
+alt: A princess kissing a frog
+tags: 
+- blog
+- article
+- demotivation
+- dissapointment
 ---
 
 # Navigating the Tech Industry: Retaining Hope and Achieving Success

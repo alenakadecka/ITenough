@@ -1,6 +1,14 @@
 ---
-layout: sablona_main.njk
+layout: sablona_blog.njk
 title: IT Enought
+date: 2024-01-13T13:30
+perex: The creavity is very important part of the IT sector, even if it does not seems so at the first sight. Why ? To what it is used? Please read further and everythibg will be explained to you.
+foto: creativity.jpg
+alt: pieces of dried flowers in a bowl
+tags:
+- blog
+- article
+- creativity
 ---
 # The Unsung Hero of IT: Creativity
 
