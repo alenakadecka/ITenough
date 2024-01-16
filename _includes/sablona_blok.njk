@@ -29,36 +29,31 @@
 
 </div>
 <!-------obsah---------->
-<main class="main">
 
-        <article class="">
+
+        <article class="article">
 
       
       <h1 class="article_title">{{ title }}</h1>
 
-    <p class="">Published {{page.date.toLocalString('cs-CZ')}}</p>
+            <p class="article__meta">Published {{page.date.toLocalString('cs-CZ')}}</p>
     
     
-    <div class="article_box">
+            <div class="article_box">
     
-    <div class="article_text">
+                <div class="article_text">
     
-    <p class="article_perex">{{ perex }}</p>
+                <p class="article_perex">{{ perex }}</p>
    
 
-    </div>
+                </div>
     
     
     
-    <img class="" src="images/{{ foto }}" alt="{{ alt }}">
-    
-    </article>
+    <img class="article__imag" src="images/{{ foto }}" alt="{{ alt }}">
     
     </div>
   
-
-</main>
-
 
 <!-------footer--------->
 
