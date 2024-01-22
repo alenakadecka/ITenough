@@ -86,7 +86,7 @@ header{
           }
 
 
-a{  color:#b50d72f9;
+a{  color:#ECE4E4;
     font-style: normal;
     text-decoration: none;
   }
@@ -121,10 +121,10 @@ h1{
             }
 
 .footer a{
-    color: #ECE4E4;
+    color: #f9ebeb;
 }
 .footer a:hover{
-    color:#341c5a
+    color:#ea25b8
 }
             /*
  **************************************
@@ -320,4 +320,7 @@ padding-top: 35px;
 }
 img:hover {
     border: 10px solid #ffffff;
+}
+.clanok a {
+    color: #b5095a;
 }
