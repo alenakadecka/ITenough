@@ -5,14 +5,12 @@ title: IT Enought Blog
 
 <div>
     <h1>Blog</h1>
-<p>Single articles about specific topics from IT sector</p>
 
-
-{% for prispevek in collections.blog   %}
+{% for prispevek in collections.blog %}
 
 <h2>{{ prispevek.data.title }}</h2>
 <p>{{ prispevek.data.perex }}</p>
-<p><a href="{{prispevek.url}}"></a></p>
+<p><a href="{{ prispevek.url }}">Read article</a></p>
 <hr>
 
 {% endfor %}

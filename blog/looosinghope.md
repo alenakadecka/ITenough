@@ -36,7 +36,7 @@ The tech industry is constantly evolving, so staying up-to-date with the latest 
 
 Obstacles and setbacks are inevitable in any career path. When facing challenges, view them as opportunities for growth and learning. Analyze what went wrong, seek feedback from experienced individuals, and adjust your approach accordingly.
 
-![A Princess kissing a Frog](/imagess/blog/loosinghope.jpg)
+![A Princess kissing a Frog](/images/blog/loosinghope.jpg)
 
 ## Celebrate Your Achievements and Build Confidence
 
