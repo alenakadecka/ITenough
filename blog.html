@@ -6,7 +6,7 @@ title: IT Enought Blog
 <div>
     <h1>Blog</h1>
 
-{% for prispevek in collections.blog %}
+{% for prispevek in collections.blog | reverse %}
 <div class="clanok">
     <img src="/images/blog/{{ prispevek.data.foto }}" alt="{{ prispevek.data.alt }}">
 
