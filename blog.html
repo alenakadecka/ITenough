@@ -5,6 +5,16 @@ title: IT Enought Blog
 
 <div>
     <h1>Blog</h1>
-<p>tady bude ponuka blogoyvch clankov</p>
+<p>Single articles about specific topics from IT sector</p>
+
+
+{% for prispevek in collections.blog   %}
+
+<h2>{{ prispevek.data.title }}</h2>
+<p>{{ prispevek.data.perex }}</p>
+<p><a href="{{prispevek.url}}"></a></p>
+<hr>
+
+{% endfor %}
 
 </div>

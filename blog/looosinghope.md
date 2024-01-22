@@ -1,6 +1,6 @@
 ---
 layout: sablona_blog.njk
-title: IT Enought
+title: How Do Not Loose Hope
 date: 2014-01-06T11:30
 perex: In a life comes often moments when thing get really hard. And entering IT field, studying without support, fighting and with lack of sleep or relax colud be on daily basis. Ho do not lose hope when your enthusiasim, faith in your strenghs and curiosity slowly desapears?
 foto: loosinghope.jpg

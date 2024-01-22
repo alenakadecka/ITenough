@@ -1,8 +1,8 @@
 ---
 layout: sablona_blog.njk
-title: IT Enought
+title: Do Not Be Discouraged
 date: 2024-01-11T14:45
-perex: Do not be discouraged. So easy to say but hard to realize when you are in the middle of the process of studzing to enter in the sector of IT.
+perex: Yes, no not be discouraged. So easy to say but hard to realize when you are in the middle of the process of studying to enter in the sector of IT.
 foto: discourage.jpg
 alt: a cup with flowers
 tags:

@@ -20,45 +20,27 @@
             <input type="checkbox" class="menu__checkbox" id="menu-checkbox">
              <label for="menu-checkbox" class="menu__toggler">☰ Menu</label>
         <ul class="menu__list">
-            <li><div class="menu__item"><a class="menu__link" href="/blog/">Blog IT Enough</a></div></li>  
             <li><div class="menu__item"><a class="menu__link" href="/uvod/">Intro</a></div></li> 
-           
-       
+            <li><div class="menu__item"><a class="menu__link" href="/vzdelavanie/">Education</a></div></li> 
+            <li><div class="menu__item"><a class="menu__link" href="/tvojjob/">Job</a></div></li> 
+            <li><div class="menu__item"><a class="menu__link" href="/inspiracia/">Inspiration</a></div></li> 
+            <li><div class="menu__item"><a class="menu__link" href="/blog/">Blog</a></div></li> 
         </ul>
         </nav>
 
 </div>
 <!-------obsah---------->
+<main class="main">
 
+    {{ content | safe }}
 
-        <article class="article">
+</main>
 
-      
-      <h1 class="article_title">{{ title }}</h1>
-
-            <p class="article__meta">Published {{page.date.toLocalString('cs-CZ')}}</p>
-    
-    
-            <div class="article_box">
-    
-                <div class="article_text">
-    
-                <p class="article_perex">{{ perex }}</p>
-   
-
-                </div>
-    
-    
-    
-    <img class="article__imag" src="images/{{ foto }}" alt="{{ alt }}">
-    
-    </div>
-  
 
 <!-------footer--------->
 
 <div class="footer">
 <p>
-© Alena Kadecká - Vytvorené pre Kurz <a href="https://www.czechitas.cz"> Czechitas</a>
+© Alena Kadecká - Vytvorené pre Kurz <a href="https://www.czechitas.cz"> <br>Czechitas</a>
 </p></div>
 </html>

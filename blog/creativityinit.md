@@ -1,6 +1,6 @@
 ---
 layout: sablona_blog.njk
-title: IT Enought
+title: The Importance of Cretivity
 date: 2024-01-13T13:30
 perex: The creavity is very important part of the IT sector, even if it does not seems so at the first sight. Why ? To what it is used? Please read further and everythibg will be explained to you.
 foto: creativity.jpg
