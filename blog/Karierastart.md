@@ -3,7 +3,7 @@ layout: sablona_blog.njk
 title: Career Change
 date: 2023-12-31T17:30
 perex: Changing carrer or only job at all is not easy. How manage your Career start in IT sector the best way?
-foto: careerstart
+foto: careerstart.jpg
 alt: Statue of Venus and flowers on the table
 tags: 
 - blog

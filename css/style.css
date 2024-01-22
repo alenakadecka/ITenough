@@ -86,7 +86,7 @@ header{
           }
 
 
-a{  color:#ECE4E4;
+a{  color:#b50d72f9;
     font-style: normal;
     text-decoration: none;
   }
@@ -115,11 +115,17 @@ h1{
         align-items: baseline;
         height: 70px;
         width: 100%;
-        padding: 3px 7px 10px 3px;
+        padding: 3px 7px 1px 3px;
         position: fixed;
         bottom: 0;
             }
 
+.footer a{
+    color: #ECE4E4;
+}
+.footer a:hover{
+    color:#341c5a
+}
             /*
  **************************************
            VZDELAVANIE
@@ -290,3 +296,28 @@ padding-top: 35px;
          INSPIRATION
  **************************************
 */
+
+
+            /*
+ **************************************
+                BLOG
+ **************************************
+*/
+.clanok{
+
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    gap: 30px;
+    margin: 30px;
+    background-color: #efefef;
+}
+
+.clanok img {
+    width: 250px;
+    height: auto;
+    border: 5px solid #280c43;
+    margin: 20px;
+}
+img:hover {
+    border: 10px solid #ffffff;
+}

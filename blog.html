@@ -7,12 +7,18 @@ title: IT Enought Blog
     <h1>Blog</h1>
 
 {% for prispevek in collections.blog %}
+<div class="clanok">
+    <img src="/images/blog/{{ prispevek.data.foto }}" alt="{{ prispevek.data.alt }}">
 
-<h2>{{ prispevek.data.title }}</h2>
-<p>{{ prispevek.data.perex }}</p>
-<p><a href="{{ prispevek.url }}">Read article</a></p>
-<hr>
-
+    <div class="clanok_popis">
+        <h2>{{ prispevek.data.title }}</h2>
+        <p>{{ prispevek.data.perex }}</p>
+        <p><a href="{{ prispevek.url }}">Read article</a></p>
+        </div>
+        <hr>
+</div>
 {% endfor %}
-
+<br>
+<br>
+<br>
 </div>
